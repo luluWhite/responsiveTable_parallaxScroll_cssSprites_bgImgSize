@@ -1,0 +1,1 @@
+bower install --save Polymer/polymer PolymerElements/iron-elements PolymerElements/paper-elements PolymerElements/gold-elements

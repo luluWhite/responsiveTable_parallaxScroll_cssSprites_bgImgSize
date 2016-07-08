@@ -1,0 +1,19 @@
+{
+  "name": "responsive-table-parallax-sprites-bgimg-size-control",
+  "version": "0.0.1",
+  "description": "responsive table parallax scrolling css sprites bgimgsize controll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luluWhite/responsiveTable_parallaxScroll_cssSprites_bgImgSize.git"
+  },
+  "author": "Collin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luluWhite/responsiveTable_parallaxScroll_cssSprites_bgImgSize/issues"
+  },
+  "homepage": "https://github.com/luluWhite/responsiveTable_parallaxScroll_cssSprites_bgImgSize#readme"
+}
